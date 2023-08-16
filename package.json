@@ -1,5 +1,5 @@
 {
-  "name": "@terra-money/feather.js",
+  "name": "@opzlab/feather.js",
   "version": "1.0.10",
   "description": "The JavaScript SDK for Terra and Feather chains",
   "license": "MIT",
